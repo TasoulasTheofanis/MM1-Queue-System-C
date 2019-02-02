@@ -1,6 +1,6 @@
 ## Περιεχόμενα
 
-- [Εκτελέσιμος και σχολιασμένος κώδικας](https://github.com/TasoulasTheofanis/MM1-Queue-System-C/tree/master/Code)
+- [Εκτελέσιμος και σχολιασμένος κώδικας](https://github.com/TasoulasTheofanis/MM1-Queue-System-C/tree/master/code)
 
 - [Πλήρης ανάλυση κώδικα](https://github.com/TasoulasTheofanis/MM1-Queue-System-C/blob/master/_Ανάλυση_Κώδικα_.pdf)
 
